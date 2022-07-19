@@ -1,6 +1,4 @@
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=FE&nbsp;DEVELOPER&fontAlign=30&fontSize=30&desc=&#126;ing&descAlign=60&descAlignY=50&theme=radical&animation=fadeIn)
-
 ![Chunho Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=paydaypermanently&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paydaypermanently&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
